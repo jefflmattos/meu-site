@@ -20,18 +20,25 @@ h2 {
     text-align: center;
 }
 
+img {
+    border-radius: 50%;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.479);
+}
+
 .head {
     text-align: center;
 }
 body {
-    background-color: #5bd463a6;
+    background-image: url("image-from-rawpixel-id-6169730.png");
+    background-color: #5bd463a6 ;
     margin: auto;
 }
 .fotos {
+    text-align: center;        
+}
 
-    text-align: center;
-    
-    
+a {
+    text-decoration: none;  
 }
 
 main {
